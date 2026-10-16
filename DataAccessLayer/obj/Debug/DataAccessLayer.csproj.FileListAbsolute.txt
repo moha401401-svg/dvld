@@ -1,0 +1,17 @@
+C:\Users\HOKVOK\source\repos\DVLD\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\HOKVOK\source\repos\DVLD\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\HOKVOK\source\repos\DVLD\DataAccessLayer\bin\Debug\DataAccessLayer.exe.config
+C:\Users\HOKVOK\source\repos\DVLD\DataAccessLayer\bin\Debug\DataAccessLayer.exe
+C:\Users\HOKVOK\source\repos\DVLD\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\HOKVOK\source\repos\DVLD\DataAccessLayer\obj\Debug\DataAccessLayer.exe
+C:\Users\HOKVOK\source\repos\DVLD\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\HOKVOK\source\repos\DVLD\DataAccessLayer\bin\Debug\BCrypt-Net-Next.dll
+C:\Users\HOKVOK\source\repos\DVLD\DataAccessLayer\bin\Debug\System.Buffers.dll
+C:\Users\HOKVOK\source\repos\DVLD\DataAccessLayer\bin\Debug\System.Memory.dll
+C:\Users\HOKVOK\source\repos\DVLD\DataAccessLayer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HOKVOK\source\repos\DVLD\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HOKVOK\source\repos\DVLD\DataAccessLayer\bin\Debug\System.Buffers.xml
+C:\Users\HOKVOK\source\repos\DVLD\DataAccessLayer\bin\Debug\System.Memory.xml
+C:\Users\HOKVOK\source\repos\DVLD\DataAccessLayer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HOKVOK\source\repos\DVLD\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HOKVOK\source\repos\DVLD\DataAccessLayer\obj\Debug\DataAcce.E67BD773.Up2Date

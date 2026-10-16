@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HOKVOK\\source\\repos\\DVLD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF422E1-2D76-431E-AC72-68CDC062D269}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\hokvok\\source\\repos\\dvld\\businesslayer\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF422E1-2D76-431E-AC72-68CDC062D269}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53488016-C582-4746-B248-40390511BF16}|DVLD\\PresentationLayer.csproj|C:\\Users\\HOKVOK\\source\\repos\\DVLD\\dvld\\controls\\menubanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53488016-C582-4746-B248-40390511BF16}|DVLD\\PresentationLayer.csproj|solutionrelative:dvld\\controls\\menubanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53488016-C582-4746-B248-40390511BF16}|DVLD\\PresentationLayer.csproj|C:\\Users\\HOKVOK\\source\\repos\\DVLD\\dvld\\forms\\users\\frmpermissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53488016-C582-4746-B248-40390511BF16}|DVLD\\PresentationLayer.csproj|solutionrelative:dvld\\forms\\users\\frmpermissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53488016-C582-4746-B248-40390511BF16}|DVLD\\PresentationLayer.csproj|C:\\Users\\HOKVOK\\source\\repos\\DVLD\\dvld\\forms\\users\\frmusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53488016-C582-4746-B248-40390511BF16}|DVLD\\PresentationLayer.csproj|solutionrelative:dvld\\forms\\users\\frmusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF422E1-2D76-431E-AC72-68CDC062D269}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\HOKVOK\\source\\repos\\DVLD\\businesslayer\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF422E1-2D76-431E-AC72-68CDC062D269}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53488016-C582-4746-B248-40390511BF16}|DVLD\\PresentationLayer.csproj|C:\\Users\\HOKVOK\\source\\repos\\DVLD\\dvld\\forms\\frmmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53488016-C582-4746-B248-40390511BF16}|DVLD\\PresentationLayer.csproj|solutionrelative:dvld\\forms\\frmmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9482031C-D620-455B-A4CD-6CE7F4AD7A19}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\HOKVOK\\source\\repos\\DVLD\\dataaccesslayer\\repo\\usersrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9482031C-D620-455B-A4CD-6CE7F4AD7A19}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repo\\usersrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9482031C-D620-455B-A4CD-6CE7F4AD7A19}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\HOKVOK\\source\\repos\\DVLD\\dataaccesslayer\\repo\\applicationsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9482031C-D620-455B-A4CD-6CE7F4AD7A19}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repo\\applicationsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53488016-C582-4746-B248-40390511BF16}|DVLD\\PresentationLayer.csproj|C:\\Users\\HOKVOK\\source\\repos\\DVLD\\dvld\\forms\\users\\frmadduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53488016-C582-4746-B248-40390511BF16}|DVLD\\PresentationLayer.csproj|solutionrelative:dvld\\forms\\users\\frmadduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53488016-C582-4746-B248-40390511BF16}|DVLD\\PresentationLayer.csproj|C:\\Users\\HOKVOK\\source\\repos\\DVLD\\dvld\\ui\\applicationsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53488016-C582-4746-B248-40390511BF16}|DVLD\\PresentationLayer.csproj|solutionrelative:dvld\\ui\\applicationsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53488016-C582-4746-B248-40390511BF16}|DVLD\\PresentationLayer.csproj|C:\\Users\\HOKVOK\\source\\repos\\DVLD\\dvld\\forms\\applications\\frmapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53488016-C582-4746-B248-40390511BF16}|DVLD\\PresentationLayer.csproj|solutionrelative:dvld\\forms\\applications\\frmapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF422E1-2D76-431E-AC72-68CDC062D269}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\HOKVOK\\source\\repos\\DVLD\\businesslayer\\models\\applications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF422E1-2D76-431E-AC72-68CDC062D269}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\models\\applications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53488016-C582-4746-B248-40390511BF16}|DVLD\\PresentationLayer.csproj|C:\\Users\\HOKVOK\\source\\repos\\DVLD\\dvld\\forms\\frmdetainlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53488016-C582-4746-B248-40390511BF16}|DVLD\\PresentationLayer.csproj|solutionrelative:dvld\\forms\\frmdetainlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF422E1-2D76-431E-AC72-68CDC062D269}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\HOKVOK\\source\\repos\\DVLD\\businesslayer\\models\\detainedlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF422E1-2D76-431E-AC72-68CDC062D269}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\models\\detainedlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53488016-C582-4746-B248-40390511BF16}|DVLD\\PresentationLayer.csproj|C:\\Users\\HOKVOK\\source\\repos\\DVLD\\dvld\\forms\\frmlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53488016-C582-4746-B248-40390511BF16}|DVLD\\PresentationLayer.csproj|solutionrelative:dvld\\forms\\frmlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9482031C-D620-455B-A4CD-6CE7F4AD7A19}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\HOKVOK\\source\\repos\\DVLD\\dataaccesslayer\\repo\\licensesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9482031C-D620-455B-A4CD-6CE7F4AD7A19}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repo\\licensesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53488016-C582-4746-B248-40390511BF16}|DVLD\\PresentationLayer.csproj|C:\\Users\\HOKVOK\\source\\repos\\DVLD\\dvld\\forms\\frmdriverdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53488016-C582-4746-B248-40390511BF16}|DVLD\\PresentationLayer.csproj|solutionrelative:dvld\\forms\\frmdriverdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF422E1-2D76-431E-AC72-68CDC062D269}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\HOKVOK\\source\\repos\\DVLD\\businesslayer\\models\\licenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF422E1-2D76-431E-AC72-68CDC062D269}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\models\\licenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53488016-C582-4746-B248-40390511BF16}|DVLD\\PresentationLayer.csproj|C:\\Users\\HOKVOK\\source\\repos\\DVLD\\dvld\\forms\\applications\\frmtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53488016-C582-4746-B248-40390511BF16}|DVLD\\PresentationLayer.csproj|solutionrelative:dvld\\forms\\applications\\frmtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF422E1-2D76-431E-AC72-68CDC062D269}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\HOKVOK\\source\\repos\\DVLD\\businesslayer\\models\\licenseclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF422E1-2D76-431E-AC72-68CDC062D269}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\models\\licenseclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\HOKVOK\\source\\repos\\DVLD\\BusinessLayer\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\HOKVOK\\source\\repos\\DVLD\\BusinessLayer\\Models\\Users.cs",
+              "RelativeToolTip": "BusinessLayer\\Models\\Users.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAhwGUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T09:19:28.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsersRepo.cs",
+              "DocumentMoniker": "C:\\Users\\HOKVOK\\source\\repos\\DVLD\\DataAccessLayer\\Repo\\UsersRepo.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repo\\UsersRepo.cs",
+              "ToolTip": "C:\\Users\\HOKVOK\\source\\repos\\DVLD\\DataAccessLayer\\Repo\\UsersRepo.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repo\\UsersRepo.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAIAwwHUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T09:11:26.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmUsers.cs",
+              "DocumentMoniker": "C:\\Users\\HOKVOK\\source\\repos\\DVLD\\DVLD\\Forms\\Users\\frmUsers.cs",
+              "RelativeDocumentMoniker": "DVLD\\Forms\\Users\\frmUsers.cs",
+              "ToolTip": "C:\\Users\\HOKVOK\\source\\repos\\DVLD\\DVLD\\Forms\\Users\\frmUsers.cs",
+              "RelativeToolTip": "DVLD\\Forms\\Users\\frmUsers.cs",
+              "ViewState": "AgIAAJcBAAAAAAAAAAApwKIBAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T09:01:51.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationSession.cs",
+              "DocumentMoniker": "C:\\Users\\HOKVOK\\source\\repos\\DVLD\\DVLD\\UI\\ApplicationSession.cs",
+              "RelativeDocumentMoniker": "DVLD\\UI\\ApplicationSession.cs",
+              "ToolTip": "C:\\Users\\HOKVOK\\source\\repos\\DVLD\\DVLD\\UI\\ApplicationSession.cs",
+              "RelativeToolTip": "DVLD\\UI\\ApplicationSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T11:37:10.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmAddUser.cs",
+              "DocumentMoniker": "C:\\Users\\HOKVOK\\source\\repos\\DVLD\\DVLD\\Forms\\Users\\frmAddUser.cs",
+              "RelativeDocumentMoniker": "DVLD\\Forms\\Users\\frmAddUser.cs",
+              "ToolTip": "C:\\Users\\HOKVOK\\source\\repos\\DVLD\\DVLD\\Forms\\Users\\frmAddUser.cs",
+              "RelativeToolTip": "DVLD\\Forms\\Users\\frmAddUser.cs",
+              "ViewState": "AgIAAEUCAAAAAAAAAADwv1YCAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T11:30:16.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuBanner.cs",
+              "DocumentMoniker": "C:\\Users\\HOKVOK\\source\\repos\\DVLD\\DVLD\\Controls\\MenuBanner.cs",
+              "RelativeDocumentMoniker": "DVLD\\Controls\\MenuBanner.cs",
+              "ToolTip": "C:\\Users\\HOKVOK\\source\\repos\\DVLD\\DVLD\\Controls\\MenuBanner.cs",
+              "RelativeToolTip": "DVLD\\Controls\\MenuBanner.cs",
+              "ViewState": "AgIAAOgAAAAAAAAAAAAAAAABAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T11:28:49.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmPermissions.cs",
+              "DocumentMoniker": "C:\\Users\\HOKVOK\\source\\repos\\DVLD\\DVLD\\Forms\\Users\\frmPermissions.cs",
+              "RelativeDocumentMoniker": "DVLD\\Forms\\Users\\frmPermissions.cs",
+              "ToolTip": "C:\\Users\\HOKVOK\\source\\repos\\DVLD\\DVLD\\Forms\\Users\\frmPermissions.cs",
+              "RelativeToolTip": "DVLD\\Forms\\Users\\frmPermissions.cs",
+              "ViewState": "AgIAABkBAAAAAAAAAAApwB0BAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T11:09:09.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CurrentUser.cs",
+              "DocumentMoniker": "C:\\Users\\HOKVOK\\source\\repos\\DVLD\\BusinessLayer\\CurrentUser.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\CurrentUser.cs",
+              "ToolTip": "C:\\Users\\HOKVOK\\source\\repos\\DVLD\\BusinessLayer\\CurrentUser.cs",
+              "RelativeToolTip": "BusinessLayer\\CurrentUser.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA6wBoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T10:33:01.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationsRepo.cs",
+              "DocumentMoniker": "C:\\Users\\HOKVOK\\source\\repos\\DVLD\\DataAccessLayer\\Repo\\ApplicationsRepo.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repo\\ApplicationsRepo.cs",
+              "ToolTip": "C:\\Users\\HOKVOK\\source\\repos\\DVLD\\DataAccessLayer\\Repo\\ApplicationsRepo.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repo\\ApplicationsRepo.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAwwGIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-31T12:03:31.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Applications.cs",
+              "DocumentMoniker": "C:\\Users\\HOKVOK\\source\\repos\\DVLD\\BusinessLayer\\Models\\Applications.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Models\\Applications.cs",
+              "ToolTip": "C:\\Users\\HOKVOK\\source\\repos\\DVLD\\BusinessLayer\\Models\\Applications.cs",
+              "RelativeToolTip": "BusinessLayer\\Models\\Applications.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-31T10:10:53.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DetainedLicenses.cs",
+              "DocumentMoniker": "C:\\Users\\HOKVOK\\source\\repos\\DVLD\\BusinessLayer\\Models\\DetainedLicenses.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Models\\DetainedLicenses.cs",
+              "ToolTip": "C:\\Users\\HOKVOK\\source\\repos\\DVLD\\BusinessLayer\\Models\\DetainedLicenses.cs",
+              "RelativeToolTip": "BusinessLayer\\Models\\DetainedLicenses.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwCgAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-31T08:48:13.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmDetainLicense.cs",
+              "DocumentMoniker": "C:\\Users\\HOKVOK\\source\\repos\\DVLD\\DVLD\\Forms\\frmDetainLicense.cs",
+              "RelativeDocumentMoniker": "DVLD\\Forms\\frmDetainLicense.cs",
+              "ToolTip": "C:\\Users\\HOKVOK\\source\\repos\\DVLD\\DVLD\\Forms\\frmDetainLicense.cs",
+              "RelativeToolTip": "DVLD\\Forms\\frmDetainLicense.cs",
+              "ViewState": "AgIAAEIBAAAAAAAAAAAowF8BAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-31T05:37:26.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmLicenses.cs",
+              "DocumentMoniker": "C:\\Users\\HOKVOK\\source\\repos\\DVLD\\DVLD\\Forms\\frmLicenses.cs",
+              "RelativeDocumentMoniker": "DVLD\\Forms\\frmLicenses.cs",
+              "ToolTip": "C:\\Users\\HOKVOK\\source\\repos\\DVLD\\DVLD\\Forms\\frmLicenses.cs",
+              "RelativeToolTip": "DVLD\\Forms\\frmLicenses.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAowJYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-31T05:28:02.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LicensesRepo.cs",
+              "DocumentMoniker": "C:\\Users\\HOKVOK\\source\\repos\\DVLD\\DataAccessLayer\\Repo\\LicensesRepo.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repo\\LicensesRepo.cs",
+              "ToolTip": "C:\\Users\\HOKVOK\\source\\repos\\DVLD\\DataAccessLayer\\Repo\\LicensesRepo.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repo\\LicensesRepo.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-31T02:45:50.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Licenses.cs",
+              "DocumentMoniker": "C:\\Users\\HOKVOK\\source\\repos\\DVLD\\BusinessLayer\\Models\\Licenses.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Models\\Licenses.cs",
+              "ToolTip": "C:\\Users\\HOKVOK\\source\\repos\\DVLD\\BusinessLayer\\Models\\Licenses.cs",
+              "RelativeToolTip": "BusinessLayer\\Models\\Licenses.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-31T02:21:22.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmMainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\HOKVOK\\source\\repos\\DVLD\\DVLD\\Forms\\frmMainMenu.cs",
+              "RelativeDocumentMoniker": "DVLD\\Forms\\frmMainMenu.cs",
+              "ToolTip": "C:\\Users\\HOKVOK\\source\\repos\\DVLD\\DVLD\\Forms\\frmMainMenu.cs",
+              "RelativeToolTip": "DVLD\\Forms\\frmMainMenu.cs",
+              "ViewState": "AgIAAKwBAAAAAAAAAAApwL0BAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-31T01:50:13.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmTest.cs",
+              "DocumentMoniker": "C:\\Users\\HOKVOK\\source\\repos\\DVLD\\DVLD\\Forms\\Applications\\frmTest.cs",
+              "RelativeDocumentMoniker": "DVLD\\Forms\\Applications\\frmTest.cs",
+              "ToolTip": "C:\\Users\\HOKVOK\\source\\repos\\DVLD\\DVLD\\Forms\\Applications\\frmTest.cs",
+              "RelativeToolTip": "DVLD\\Forms\\Applications\\frmTest.cs",
+              "ViewState": "AgIAAL8BAAAAAAAAAAAqwIYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-31T01:29:01.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LicenseClasses.cs",
+              "DocumentMoniker": "C:\\Users\\HOKVOK\\source\\repos\\DVLD\\BusinessLayer\\Models\\LicenseClasses.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Models\\LicenseClasses.cs",
+              "ToolTip": "C:\\Users\\HOKVOK\\source\\repos\\DVLD\\BusinessLayer\\Models\\LicenseClasses.cs",
+              "RelativeToolTip": "BusinessLayer\\Models\\LicenseClasses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T20:01:58.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmApplications.cs",
+              "DocumentMoniker": "C:\\Users\\HOKVOK\\source\\repos\\DVLD\\DVLD\\Forms\\Applications\\frmApplications.cs",
+              "RelativeDocumentMoniker": "DVLD\\Forms\\Applications\\frmApplications.cs",
+              "ToolTip": "C:\\Users\\HOKVOK\\source\\repos\\DVLD\\DVLD\\Forms\\Applications\\frmApplications.cs",
+              "RelativeToolTip": "DVLD\\Forms\\Applications\\frmApplications.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAmwKEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T19:11:13.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmDriverDetails.cs",
+              "DocumentMoniker": "C:\\Users\\HOKVOK\\source\\repos\\DVLD\\DVLD\\Forms\\frmDriverDetails.cs",
+              "RelativeDocumentMoniker": "DVLD\\Forms\\frmDriverDetails.cs",
+              "ToolTip": "C:\\Users\\HOKVOK\\source\\repos\\DVLD\\DVLD\\Forms\\frmDriverDetails.cs",
+              "RelativeToolTip": "DVLD\\Forms\\frmDriverDetails.cs",
+              "ViewState": "AgIAAGwBAAAAAAAAAAAqwOQBAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T18:36:45.362Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
